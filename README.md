@@ -1,5 +1,5 @@
 # ProyectoCiclo3
-Repositorio Proyecto Ciclo 3
+Repositorio Libreria Virtual
 
 # Sprint 0: Entrega en ultima clase semana 2
 
